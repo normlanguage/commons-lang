@@ -1,0 +1,15 @@
+import commons.lang.stringUtilsCapitalize
+import commons.lang.stringUtilsNormalizeSpace
+import commons.lang.stringUtilsReverse
+
+main() {
+  String heading = stringUtilsNormalizeSpace("  learn   norm  ")!!
+  String title = stringUtilsCapitalize(heading)!!
+  String reversed = stringUtilsReverse("Norm")!!
+  printLine(title)
+  printLine(reversed)
+}
+
+Module module() {
+  module(dependencies: [dependency(repository: "github", name: "commons.lang", version: 2)])
+}
