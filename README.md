@@ -1,3 +1,5 @@
 # Apache Commons Lang
 
-适配声明与可运行入口位于 `commons/lang`，固定 Apache Commons Lang 3.20.0，发布坐标为 `commons:lang:1`。独立 NAR 消费示例见 [Java Commons Lang](https://github.com/normlanguage/Norm/tree/main/docs/examples/java-commons-lang)。完整 census 与未支持原因位于 NAR 的 `binding/java-api.json`。
+[English](README.md) | [简体中文](README.zh-CN.md)
+
+The adapter declaration and runnable entry point are in `commons/lang`. It pins Apache Commons Lang 3.20.0 and publishes as `commons:lang:1`. A standalone NAR consumer example is [Java Commons Lang](https://github.com/normlanguage/examples/tree/main/java-commons-lang). The complete API census and reasons for unsupported APIs are in the NAR's `binding/java-api.json`.
