@@ -19,4 +19,4 @@ Learn norm
 mroN
 ```
 
-API reference: [module.norm](../commons/lang/module.norm) lists the exposed `StringUtils` functions. The module's `Main.norm` remains its own adapter integration entry point.
+API reference: [module.norm](../commons/lang/module.norm) lists the exposed `StringUtils` functions. The [adapter acceptance example](../examples/sample/commons/lang/Main.norm) exercises additional binding behavior.

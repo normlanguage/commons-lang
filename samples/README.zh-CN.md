@@ -19,4 +19,4 @@ Learn norm
 mroN
 ```
 
-API 入口：[module.norm](../commons/lang/module.norm) 列出公开的 `StringUtils` 函数。`Main.norm` 仍是该适配器自身的集成入口。
+API 入口：[module.norm](../commons/lang/module.norm) 列出公开的 `StringUtils` 函数。[适配器验收示例](../examples/sample/commons/lang/Main.norm)覆盖更多绑定行为。

@@ -1,4 +1,7 @@
-package commons.lang
+package sample.commons.lang
+
+import commons.lang.stringUtilsFieldGetEmpty
+import commons.lang.stringUtilsReverse
 
 Void main() {
   String prefix = stringUtilsFieldGetEmpty() ?? ""
