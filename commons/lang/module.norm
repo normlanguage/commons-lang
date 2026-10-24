@@ -2,6 +2,7 @@ Module module() {
   return module(
     name: "commons.lang",
     version: 3,
+    exports: ["ObjectUtils", "StringUtils"],
     binding: jarBinding(
       target: mavenJar(
         group: "org.apache.commons",
