@@ -1,1 +1,1 @@
-Module module() { module(dependencies: [dependency(repository: "github", name: "commons.lang", version: 5)]) }
+Module module() { module(name: "arrays", version: 1, dependencies: [dependency(repository: "github", name: "commons.lang", version: 5)]) }
