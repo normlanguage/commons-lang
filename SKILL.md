@@ -1,6 +1,6 @@
 # commons.lang Skill
 
-Use this skill to work with Norm module `commons.lang` version 3. Use only declarations listed below.
+Use this skill to work with Norm module `commons.lang` version 4. Use only declarations listed below.
 
 ## `commons.lang`
 
