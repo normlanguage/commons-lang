@@ -7,3 +7,5 @@
 [可运行示例](samples/README.zh-CN.md) 展示如何作为外部 Norm 依赖使用本库。
 
 [许可证](LICENSE)
+
+[数组 API 示例](examples/arrays/Main.norm)
