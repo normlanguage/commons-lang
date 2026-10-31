@@ -1,8 +1,8 @@
 Module module() {
   return module(
     name: "commons.lang",
-    version: 4,
-    exports: ["ObjectUtils", "StringUtils"],
+    version: 5,
+    exports: ["ObjectUtils", "StringUtils", "JavaArrays"],
     binding: jarBinding(
       target: mavenJar(
         group: "org.apache.commons",

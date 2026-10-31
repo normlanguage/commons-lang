@@ -7,3 +7,5 @@ The adapter declaration and runnable entry point are in `commons/lang`. It pins 
 [Runnable samples](samples/README.md) demonstrate the library as an external Norm dependency.
 
 [License](LICENSE)
+
+[Array API example](examples/arrays/Main.norm)
